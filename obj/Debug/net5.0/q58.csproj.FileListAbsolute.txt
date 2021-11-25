@@ -1,0 +1,16 @@
+C:\Users\DANISH\Desktop\questions\q58\obj\Debug\net5.0\q58.csproj.AssemblyReference.cache
+C:\Users\DANISH\Desktop\questions\q58\obj\Debug\net5.0\q58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANISH\Desktop\questions\q58\obj\Debug\net5.0\q58.AssemblyInfoInputs.cache
+C:\Users\DANISH\Desktop\questions\q58\obj\Debug\net5.0\q58.AssemblyInfo.cs
+C:\Users\DANISH\Desktop\questions\q58\obj\Debug\net5.0\q58.csproj.CoreCompileInputs.cache
+C:\Users\DANISH\Desktop\questions\q58\bin\Debug\net5.0\q58.exe
+C:\Users\DANISH\Desktop\questions\q58\bin\Debug\net5.0\q58.deps.json
+C:\Users\DANISH\Desktop\questions\q58\bin\Debug\net5.0\q58.runtimeconfig.json
+C:\Users\DANISH\Desktop\questions\q58\bin\Debug\net5.0\q58.runtimeconfig.dev.json
+C:\Users\DANISH\Desktop\questions\q58\bin\Debug\net5.0\q58.dll
+C:\Users\DANISH\Desktop\questions\q58\bin\Debug\net5.0\ref\q58.dll
+C:\Users\DANISH\Desktop\questions\q58\bin\Debug\net5.0\q58.pdb
+C:\Users\DANISH\Desktop\questions\q58\obj\Debug\net5.0\q58.dll
+C:\Users\DANISH\Desktop\questions\q58\obj\Debug\net5.0\ref\q58.dll
+C:\Users\DANISH\Desktop\questions\q58\obj\Debug\net5.0\q58.pdb
+C:\Users\DANISH\Desktop\questions\q58\obj\Debug\net5.0\q58.genruntimeconfig.cache
